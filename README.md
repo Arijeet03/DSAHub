@@ -11,14 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arijeet03/DSAHub/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Arijeet03/DSAHub/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
