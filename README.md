@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arijeet03/DSAHub/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
+| [0890-lemonade-change](https://github.com/Arijeet03/DSAHub/tree/master/0890-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
+| [0890-lemonade-change](https://github.com/Arijeet03/DSAHub/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
