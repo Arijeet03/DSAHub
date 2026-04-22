@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/Arijeet03/DSAHub/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
 | [0890-lemonade-change](https://github.com/Arijeet03/DSAHub/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/Arijeet03/DSAHub/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Arijeet03/DSAHub/tree/master/0328-odd-even-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/Arijeet03/DSAHub/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
