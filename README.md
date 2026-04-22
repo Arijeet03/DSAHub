@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/Arijeet03/DSAHub/tree/master/0890-lemonade-change) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Arijeet03/DSAHub/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
