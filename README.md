@@ -34,6 +34,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arijeet03/DSAHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/Arijeet03/DSAHub/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arijeet03/DSAHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +43,5 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arijeet03/DSAHub/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Arijeet03/DSAHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
