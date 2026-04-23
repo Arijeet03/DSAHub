@@ -32,9 +32,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Arijeet03/DSAHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/Arijeet03/DSAHub/tree/master/0328-odd-even-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Arijeet03/DSAHub/tree/master/0907-koko-eating-bananas) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Arijeet03/DSAHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
