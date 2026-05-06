@@ -20,6 +20,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
+| [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Arijeet03/DSAHub/tree/master/0890-lemonade-change) |
 ## Linked List
 |  |
@@ -68,4 +70,9 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Arijeet03/DSAHub/tree/master/0151-reverse-words-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
