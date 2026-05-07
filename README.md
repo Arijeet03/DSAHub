@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arijeet03/DSAHub/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
+| [0735-asteroid-collision](https://github.com/Arijeet03/DSAHub/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/Arijeet03/DSAHub/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Arijeet03/DSAHub/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
@@ -75,4 +76,9 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Arijeet03/DSAHub/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Arijeet03/DSAHub/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
