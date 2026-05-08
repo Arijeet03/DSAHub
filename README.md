@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/Arijeet03/DSAHub/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
 | [0735-asteroid-collision](https://github.com/Arijeet03/DSAHub/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/Arijeet03/DSAHub/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Arijeet03/DSAHub/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Arijeet03/DSAHub/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Arijeet03/DSAHub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Arijeet03/DSAHub/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
