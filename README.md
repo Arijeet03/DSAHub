@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Arijeet03/DSAHub/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Arijeet03/DSAHub/tree/master/0890-lemonade-change) |
 ## Linked List
@@ -71,14 +72,20 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Arijeet03/DSAHub/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Arijeet03/DSAHub/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Arijeet03/DSAHub/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Arijeet03/DSAHub/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Arijeet03/DSAHub/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Arijeet03/DSAHub/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
