@@ -79,12 +79,14 @@
 | [0151-reverse-words-in-a-string](https://github.com/Arijeet03/DSAHub/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Arijeet03/DSAHub/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Arijeet03/DSAHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Arijeet03/DSAHub/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Arijeet03/DSAHub/tree/master/0735-asteroid-collision) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Arijeet03/DSAHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
