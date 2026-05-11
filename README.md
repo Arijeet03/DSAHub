@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Arijeet03/DSAHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arijeet03/DSAHub/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Arijeet03/DSAHub/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -72,10 +73,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arijeet03/DSAHub/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arijeet03/DSAHub/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arijeet03/DSAHub/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Arijeet03/DSAHub/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Arijeet03/DSAHub/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
