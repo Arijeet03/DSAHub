@@ -78,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Arijeet03/DSAHub/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Arijeet03/DSAHub/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Arijeet03/DSAHub/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Arijeet03/DSAHub/tree/master/0402-remove-k-digits) |
