@@ -16,6 +16,7 @@
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arijeet03/DSAHub/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arijeet03/DSAHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arijeet03/DSAHub/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arijeet03/DSAHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Arijeet03/DSAHub/tree/master/0735-asteroid-collision) |
@@ -54,6 +55,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arijeet03/DSAHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arijeet03/DSAHub/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arijeet03/DSAHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Arijeet03/DSAHub/tree/master/0792-binary-search) |
