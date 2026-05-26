@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/Arijeet03/DSAHub/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Arijeet03/DSAHub/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Arijeet03/DSAHub/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/Arijeet03/DSAHub/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Arijeet03/DSAHub/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Arijeet03/DSAHub/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/Arijeet03/DSAHub/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
