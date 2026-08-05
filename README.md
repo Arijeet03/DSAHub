@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/Arijeet03/DSAHub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Arijeet03/DSAHub/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Arijeet03/DSAHub/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Arijeet03/DSAHub/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Arijeet03/DSAHub/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Arijeet03/DSAHub/tree/master/2050-count-good-numbers) |
 ## Array
@@ -41,6 +42,7 @@
 | [0045-jump-game-ii](https://github.com/Arijeet03/DSAHub/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Arijeet03/DSAHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Arijeet03/DSAHub/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
@@ -144,4 +146,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arijeet03/DSAHub/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arijeet03/DSAHub/tree/master/0240-search-a-2d-matrix-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arijeet03/DSAHub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
