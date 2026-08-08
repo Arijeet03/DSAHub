@@ -28,6 +28,7 @@
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arijeet03/DSAHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arijeet03/DSAHub/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/Arijeet03/DSAHub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arijeet03/DSAHub/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arijeet03/DSAHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arijeet03/DSAHub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -45,6 +46,7 @@
 | [0055-jump-game](https://github.com/Arijeet03/DSAHub/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Arijeet03/DSAHub/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arijeet03/DSAHub/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/Arijeet03/DSAHub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arijeet03/DSAHub/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Arijeet03/DSAHub/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
